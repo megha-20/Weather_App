@@ -32,7 +32,7 @@ Step - 5: Create a Django app
 
   To create a Django app in the Django project we need to execute the below command. Here WeatherApp is an app name(After this, include all code downloaded from above )
   
-    python manage.py startapp WaetherApp
+    python manage.py startapp WeatherApp
     
 Step - 6: Run your project
 
