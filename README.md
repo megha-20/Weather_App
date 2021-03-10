@@ -8,6 +8,11 @@ To build this Django project we must do 2 steps. They are.
 1) Scrap the data from a website using python
 2) Build a Django project using weather data
 
+OUTPUT:
+--------
+
+<img src = "WeatherApp_Output.png">
+
 STEPS TO RUN THIS PROJECT
 
 Step - 1: Download the code from above
